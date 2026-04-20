@@ -30,7 +30,7 @@ The assistant automatically detects language from:
 
 ## 👨‍💻 Author
 
-**Soumya321**  
+**Soumyo321**  
 [GitHub](https://github.com/Soumyo321)
 
 ---
